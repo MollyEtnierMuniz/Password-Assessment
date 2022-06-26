@@ -1,0 +1,1 @@
+# Password-Assessment This is my first assessment at DevMountain and there are several things I'm unsure of. I did try to use what I know as "work-arounds" but I'm sure there are more elegant solutions to learn. --Molly
